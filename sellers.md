@@ -621,7 +621,7 @@ These typically require the account to be fixed or replaced:
 
 | Feature | Instant | Express | Standard |
 |---------|---------|---------|----------|
-| **Processing Time** | ~6 hours | 1 business day | 3 business days |
+| **Processing Time** | ~6 hours | 1  day | 3 days |
 | **Commission** | Highest (e.g., 7%) | Medium (e.g., 5%) | Lowest (e.g., 3%) |
 | **Best For** | Urgent needs | Balanced option | Maximum earnings |
 | **Countdown** | 6 hours | 24 hours | 72 hours |
@@ -708,8 +708,8 @@ New deadline: Thursday 10:00 AM (72 hours)
 **Q: How long does it take to get paid?**
 A: Depends on your chosen option:
 - Instant: ~6 hours
-- Express: 1 business day
-- Standard: 3 business days
+- Express: 1 day
+- Standard: 3 days
 
 If the deadline passes, your commission is automatically reduced, but payment may take longer.
 
@@ -852,4 +852,5 @@ A: Yes, all connections are encrypted (HTTPS), and passwords are securely stored
 
 **Version History:**
 - **v1.0** (November 2025) - Initial user guide creation
+
 
