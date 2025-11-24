@@ -224,8 +224,7 @@ Manage your personal information and payout preferences.
 
 **Creating a Payout Request:**
 
-1. **Check Your Balance**: Ensure you have available funds
-2. **Select Payout Option**: Choose from available options:
+1. **Select Payout Option**: Choose from available options:
 
    | Option | Commission | Processing Time | You Receive |
    |--------|-----------|-----------------|-------------|
@@ -235,12 +234,12 @@ Manage your personal information and payout preferences.
 
    *Note: Actual commission rates are configured by administrators*
 
-3. **Review Details**:
+2. **Review Details**:
    - Total Amount: Your completed order value
    - Commission: Percentage deducted
    - Net Amount: What you'll receive
 
-4. **Submit Request**: Click "Confirm Payout Request"
+3. **Submit Request**: Click "Confirm Payout Request"
 
 **Tracking Your Requests:**
 
@@ -823,7 +822,6 @@ A: Yes, all connections are encrypted (HTTPS), and passwords are securely stored
 | Login | `/auth/login` | Public |
 | My Accounts | `/tables` | Seller+ |
 | Profile | `/profile` | Seller+ |
-| Add Funds | `/add-funds` | Seller+ |
 | FAQs | `/faqs` | Seller+ |
 | Dashboard | `/dashboard` | Admin+ |
 | Payouts Queue | `/superadmin/payouts` | Admin+ |
@@ -852,5 +850,6 @@ A: Yes, all connections are encrypted (HTTPS), and passwords are securely stored
 
 **Version History:**
 - **v1.0** (November 2025) - Initial user guide creation
+
 
 
