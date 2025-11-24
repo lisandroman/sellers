@@ -129,7 +129,6 @@ The main table displays all your FC26 accounts with the following columns:
 
 | Column | Description |
 |--------|-------------|
-| **Info** | Click the info icon to view transaction history |
 | **ID** | Unique account identifier |
 | **Account** | Email address with platform icon (PC/Console) |
 | **WebApp Coins** | Initial coin balance from FC26 Web App |
@@ -231,8 +230,8 @@ Manage your personal information and payout preferences.
    | Option | Commission | Processing Time | You Receive |
    |--------|-----------|-----------------|-------------|
    | **Instant** | Higher fee | ~6 hours | Amount - 7% (example) |
-   | **Express** | Medium fee | 1 business day | Amount - 5% (example) |
-   | **Standard** | Lower fee | 3 business days | Amount - 3% (example) |
+   | **Express** | Medium fee | 1 day | Amount - 5% (example) |
+   | **Standard** | Lower fee | 3 days | Amount - 3% (example) |
 
    *Note: Actual commission rates are configured by administrators*
 
@@ -853,3 +852,4 @@ A: Yes, all connections are encrypted (HTTPS), and passwords are securely stored
 
 **Version History:**
 - **v1.0** (November 2025) - Initial user guide creation
+
